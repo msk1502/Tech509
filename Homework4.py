@@ -71,6 +71,8 @@ for a in board:
 
 # In[ ]:
 
+print("lalalala")
+
 
 
 
